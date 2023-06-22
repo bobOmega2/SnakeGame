@@ -1,0 +1,54 @@
+Snake Game Instructions:
+
+Objective:
+The goal of the game is to control the snake and accumulate a score of 15 or more. You need to eat blue food items while avoiding the red circles (bad foods). If you reach a score of 15 or higher, you win the game!
+
+Controls:
+Use the arrow keys on your keyboard to control the snake's movement:
+- Up Arrow: Move upwards
+- Down Arrow: Move downwards
+- Left Arrow: Move to the left
+- Right Arrow: Move to the right
+
+Game Elements:
+1. Blue Food:
+   - Eat the blue food items to increase your score.
+   - Each blue food item eaten adds one point to your score.
+
+2. Red Circles (Bad Foods):
+   - Avoid the red circles as they will decrease your score if you touch them.
+   - Colliding with bad foods will deduct one point from your score.
+
+3. Mystery Box:
+   - There is a big orange mystery box in the game.
+   - If you eat it, you will receive a random power-up.
+   - Power-ups can be both advantageous and disadvantageous.
+   - Be prepared for unexpected effects!
+
+   Power-ups:
+   - Remove Segment: Remove a segment from the snake.
+   - Slowdown: Decrease the snake's movement speed.
+   - Double Score: Double the points gained from blue food.
+   - Zero Score: Reset your score to zero.
+   - Double Lives: Double the number of lives.
+
+4. Lives:
+   - You start the game with 5 lives.
+   - Colliding with bad foods will reduce your lives.
+   - Once all your lives are exhausted, the game ends.
+
+5. Levels:
+   - As you progress in the game and reach certain score milestones, the game becomes more challenging.
+   - More bad foods will appear, making it harder to avoid collisions.
+   - Aim for higher scores to unlock new levels!
+
+Game Progression:
+- Score 5 or more: Advance to Level 2 with increased difficulty.
+- Score 10 or more: Further increase in difficulty with additional bad foods.
+- Score 15 or more: Achieve this score to win the game!
+
+Enjoy playing the Snake Game and strive for the highest score! Good luck!
+
+WARNING: IT IS VERY DIFFICULT
+
+Made by: Devesh Kotak
